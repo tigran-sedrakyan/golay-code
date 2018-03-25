@@ -1,0 +1,8 @@
+# Visual Studio Code configs
+/.vscode
+
+# Clang-format configs
+.clang-format
+
+# test binary files
+a.out
