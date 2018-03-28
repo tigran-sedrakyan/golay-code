@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     Golay g;
     int m[12] = {};
-    cout << "Message: ";
+    cout << "Message (separate digits by spaces or new lines): ";
     for (int i = 0; i < 12; i++) {
         cin >> m[i];
     }
